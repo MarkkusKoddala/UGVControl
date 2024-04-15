@@ -10,7 +10,7 @@ This application provides a control interface for an Unmanned Ground Vehicle (UG
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ugv-interface
+   cd UGVControl
    ```
 3. Install dependencies:
    ```bash

@@ -38,3 +38,6 @@ The application will be available at `http://localhost:8080`.
 
 # Additional information
 The task took more than three hours, primarily due to two reasons: the most time-consuming aspect was familiarizing myself with Leaflet's functionalities, and implementing the renaming and popup opening after adding a marker on the map.
+
+
+[Watch the Demo Video](/demovideo.mp4)
